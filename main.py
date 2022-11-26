@@ -15,8 +15,5 @@ if __name__ == '__main__':
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
-def huoqu():
-    print(12312312)
-    print(huuoqushijian)
-    fefwefwefwefwe
-def haollfefewe
+def fun():
+    print()
