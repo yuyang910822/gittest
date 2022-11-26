@@ -22,4 +22,3 @@ def fun():
     print(22312212)
     print(12312312)
 
-def fdsfsdfsdfwdqwdqwdqwdq
