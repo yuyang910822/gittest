@@ -18,3 +18,4 @@ if __name__ == '__main__':
 def fun():
     print()
     print()
+    print()
