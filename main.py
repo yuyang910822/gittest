@@ -20,4 +20,4 @@ def fun():
     print()
     print()
     print(22312212)
-    print()
+    print(12312312)
