@@ -17,7 +17,9 @@ if __name__ == '__main__':
 
 def fun():
     print()
-    print()
+    print()1
     print()
     print(22312212)
     print(12312312)
+    
+def. fdfsdfsdf
